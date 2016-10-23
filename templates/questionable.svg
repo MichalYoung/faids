@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="124 16 175 229" width="175pt" height="229pt">
+  <metadata> Produced by OmniGraffle 6.6.1 <dc:date>2016-10-23 04:40:40 +0000</dc:date></metadata>
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 134 18 L 289 18 C 293.41828 18 297 21.581722 297 26 L 297 64 C 297 68.41828 293.41828 72 289 72 L 134 72 C 129.58172 72 126 68.41828 126 64 L 126 26 C 126 21.581722 129.58172 18 134 18 Z" fill="white"/>
+      <path d="M 134 18 L 289 18 C 293.41828 18 297 21.581722 297 26 L 297 64 C 297 68.41828 293.41828 72 289 72 L 134 72 C 129.58172 72 126 68.41828 126 64 L 126 26 C 126 21.581722 129.58172 18 134 18 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(131 18)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="63.316" y="15" textLength="34.368">Start</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="8.148" y="33" textLength="144.704">out={{g.out["start"]}}</tspan>
+      </text>
+      <path d="M 134 99 L 289 99 C 293.41828 99 297 102.58172 297 107 L 297 145 C 297 149.41828 293.41828 153 289 153 L 134 153 C 129.58172 153 126 149.41828 126 145 L 126 107 C 126 102.58172 129.58172 99 134 99 Z" fill="white"/>
+      <path d="M 134 99 L 289 99 C 293.41828 99 297 102.58172 297 107 L 297 145 C 297 149.41828 293.41828 153 289 153 L 134 153 C 129.58172 153 126 149.41828 126 145 L 126 107 C 126 102.58172 129.58172 99 134 99 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(131 99)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="49.38" y="15" textLength="62.24">(A)  int k;</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="14.516" y="33" textLength="131.968">out={{g.out["nA"] }}</tspan>
+      </text>
+      <path d="M 134 189 L 289 189 C 293.41828 189 297 192.58172 297 197 L 297 235 C 297 239.41828 293.41828 243 289 243 L 134 243 C 129.58172 243 126 239.41828 126 235 L 126 197 C 126 192.58172 129.58172 189 134 189 Z" fill="white"/>
+      <path d="M 134 189 L 289 189 C 293.41828 189 297 192.58172 297 197 L 297 235 C 297 239.41828 293.41828 243 289 243 L 134 243 C 129.58172 243 126 239.41828 126 235 L 126 197 C 126 192.58172 129.58172 189 134 189 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(131 189)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="28.292" y="15" textLength="108.864">(B)  for (int i=0; </tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="14.22" y="33" textLength="132.56">out={{ g.out["nB"] }}</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

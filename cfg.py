@@ -108,6 +108,12 @@ class BitVec_Prop:
     def __str__(self):
         return str(self.val)
 
+    def name_map(self):
+        d = { }
+        for node in self.val:
+            d[ str(node) ] = str( self.val[node] )
+        return d
+
 def to_frozen_set( val ):
     """
     For defining gen and kill, it is convenient to permit not

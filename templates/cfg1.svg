@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="115 25 344 446" width="344pt" height="446pt">
+  <metadata> Produced by OmniGraffle 6.6.1 <dc:date>2016-10-23 00:56:00 +0000</dc:date></metadata>
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 125 27 L 280 27 C 284.41828 27 288 30.581722 288 35 L 288 94.70588 C 288 99.12416 284.41828 102.70588 280 102.70588 L 125 102.70588 C 120.58172 102.70588 117 99.12416 117 94.70588 L 117 35 C 117 30.581722 120.58172 27 125 27 Z" fill="white"/>
+      <path d="M 125 27 L 280 27 C 284.41828 27 288 30.581722 288 35 L 288 94.70588 C 288 99.12416 284.41828 102.70588 280 102.70588 L 125 102.70588 C 120.58172 102.70588 117 99.12416 117 94.70588 L 117 35 C 117 30.581722 120.58172 27 125 27 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(122 55.85294)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="62.66" y="15" textLength="35.68">x = 0</tspan>
+      </text>
+      <path d="M 125 155.64706 L 280 155.64706 C 284.41828 155.64706 288 159.22878 288 163.64706 L 288 229.17647 C 288 233.59475 284.41828 237.17647 280 237.17647 L 125 237.17647 C 120.58172 237.17647 117 233.59475 117 229.17647 L 117 163.64706 C 117 159.22878 120.58172 155.64706 125 155.64706 Z" fill="white"/>
+      <path d="M 125 155.64706 L 280 155.64706 C 284.41828 155.64706 288 159.22878 288 163.64706 L 288 229.17647 C 288 233.59475 284.41828 237.17647 280 237.17647 L 125 237.17647 C 120.58172 237.17647 117 233.59475 117 229.17647 L 117 163.64706 C 117 159.22878 120.58172 155.64706 125 155.64706 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(122 187.41176)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="37.628" y="15" textLength="85.744">while x &lt; 10</tspan>
+      </text>
+      <line x1="202.50001" y1="103.20588" x2="202.50001" y2="145.24706" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 269 287.47059 L 424 287.47059 C 428.41828 287.47059 432 291.05231 432 295.47059 L 432 361 C 432 365.41828 428.41828 369 424 369 L 269 369 C 264.58172 369 261 365.41828 261 361 L 261 295.47059 C 261 291.05231 264.58172 287.47059 269 287.47059 Z" fill="white"/>
+      <path d="M 269 287.47059 L 424 287.47059 C 428.41828 287.47059 432 291.05231 432 295.47059 L 432 361 C 432 365.41828 428.41828 369 424 369 L 269 369 C 264.58172 369 261 365.41828 261 361 L 261 295.47059 C 261 291.05231 264.58172 287.47059 269 287.47059 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(266 319.2353)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="49.268" y="15" textLength="62.464">x = x + 1</tspan>
+      </text>
+      <path d="M 125 387 L 280 387 C 284.41828 387 288 390.58172 288 395 L 288 460.5294 C 288 464.9477 284.41828 468.5294 280 468.5294 L 125 468.5294 C 120.58172 468.5294 117 464.9477 117 460.5294 L 117 395 C 117 390.58172 120.58172 387 125 387 Z" fill="white"/>
+      <path d="M 125 387 L 280 387 C 284.41828 387 288 390.58172 288 395 L 288 460.5294 C 288 464.9477 284.41828 468.5294 280 468.5294 L 125 468.5294 C 120.58172 468.5294 117 464.9477 117 460.5294 L 117 395 C 117 390.58172 120.58172 387 125 387 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(122 418.7647)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="53.092" y="15" textLength="5.328">r</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="58.132" y="15" textLength="27.856">etur</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="86.276" y="15" textLength="21.632">n x</tspan>
+      </text>
+      <line x1="248.08273" y1="237.51129" x2="295.75768" y2="280.49727" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="202.42435" y1="237.67647" x2="202.16968" y2="376.60003" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 372.75628 287.04897 L 441 180 L 342 126 L 291.76852 151.35403" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(308 32)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="145.024">s0: gen={{g.s0.gen}}</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="33" textLength="134.944">      kill= {{g.s0.kill}}</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="51" textLength="143.264">      out= {{g.s0.out}}</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

@@ -47,3 +47,25 @@ def solve_avail(cfg, avail):
                 changed = True
                 avail.out.set(node,new_value)
 
+#
+# First cut at animation ... run one iteration of
+# flow analysis through the CFG
+#
+
+def solve_avail_one_step(cfg, avail):
+    """
+    One potential step size for animation is going through the
+    control flow graph once.  I think there are better choices,
+    but this one is simple. 
+    """
+    # Init has been done
+    # Gen and kill have been defined
+    changed = False
+    for node in cfg.nodes:
+        logging.debug("Applying meet/join for node {}".format(node))
+        new_value = ((meet_as_intersect(avail, node.predecessors)
+                      - avail.kill.get(node)) | avail.gen.get(node))
+        if new_value != avail.out.get(node):
+            changed = True
+            avail.out.set(node,new_value)
+    return changed
